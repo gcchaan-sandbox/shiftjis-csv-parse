@@ -1,0 +1,16 @@
+{
+  "name": "shiftjis-csv-parse",
+  "private": true,
+  "type": "module",
+  "main": "index.mjs",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^5.3.0",
+    "iconv-lite": "^0.6.3",
+    "node-fetch": "^3.2.10"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.47",
+    "serve": "^14.0.1"
+  }
+}
